@@ -16,6 +16,7 @@ public class Prueba_de_colaboracion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("hola, ya puedo subir cosas al trabajo de otro");
     }
     
 }
